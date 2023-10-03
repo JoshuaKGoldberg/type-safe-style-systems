@@ -1,0 +1,27 @@
+$colorBackground: #eeeeff;
+$colorForeground: purple;
+$paddingMedium: 1rem;
+
+.container {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title {
+  background: $colorBackground;
+  color: $colorForeground;
+  padding: $paddingMedium;
+}
+
+.button {
+  border: 3px solid $colorBackground;
+  cursor: pointer;
+  padding: $paddingMedium;
+}
+
+.pressed {
+  border-color: $colorForeground;
+}

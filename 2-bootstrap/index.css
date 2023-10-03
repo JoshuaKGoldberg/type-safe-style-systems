@@ -1,0 +1,13 @@
+.modal {
+  position: relative !important;
+  top: auto !important;
+  left: auto !important;
+  margin: 0 auto !important;
+  z-index: 1 !important;
+}
+
+.well {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  border: none !important;
+  padding: 40px !important;
+}

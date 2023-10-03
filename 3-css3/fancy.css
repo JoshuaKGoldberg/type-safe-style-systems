@@ -1,0 +1,21 @@
+:root {
+  --color-background: #eeeeff;
+  --color-foreground: purple;
+  --padding-medium: 1rem;
+}
+
+.container {
+  height: 100%;
+}
+
+.centered {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  padding: var(--padding-medium);
+}
