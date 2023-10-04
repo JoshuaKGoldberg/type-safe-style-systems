@@ -1,4 +1,4 @@
-# CSS Modules
+# Styled Components
 
 Built with the [Vite React template](https://vitejs.dev/guide).
 

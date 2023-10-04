@@ -1,4 +1,4 @@
-# CSS Modules
+# Tailwind
 
 Built with the [Vite React template](https://vitejs.dev/guide).
 

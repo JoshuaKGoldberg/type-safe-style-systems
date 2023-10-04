@@ -1,4 +1,4 @@
-# CSS Modules
+# Chakra UI
 
 Built with the [Vite React template](https://vitejs.dev/guide).
 
